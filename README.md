@@ -1,3 +1,5 @@
+#PLUGIN ALTERADO
+
 # Supersized jQuery Plugin
 
 Documentation can be found on the official project page: [http://www.buildinternet.com/project/supersized/](http://www.buildinternet.com/project/supersized/)
